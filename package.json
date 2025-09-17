@@ -9,6 +9,7 @@
     "lint": "eslint .",
     "preview": "vite preview"
   },
+  "license": "UNLICENSED",
   "dependencies": {
     "@gsap/react": "^2.1.2",
     "@react-three/fiber": "^9.1.2",
