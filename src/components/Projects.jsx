@@ -50,14 +50,6 @@ const projects = [
     blurhash:"LhLz?TRk~qoe-=azM{ay?cs.MxbH"
   },
   {
-    title: "NST.TINDER",
-    description:
-      "NST Tinder: Matchmaking for Newton School with swipe, chat, and futuristic profiles.",
-    link: "https://nst-tinder.vercel.app",
-    image: "/nst_tinder.png",
-    blurhash:"L6Sp@kpw%#t70{Y*aza|0_aKIBbH"
-  },
-  {
     title: "Healthy Middle-Class India",
     description: "Healthy Middle-Class India: Tackles obesity and lifestyle diseases with systemic solutions.",
     link: "https://fste-chi.vercel.app",
