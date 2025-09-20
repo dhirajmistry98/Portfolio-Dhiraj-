@@ -44,7 +44,7 @@ useEffect(() => {
     <>
       {/* Global SEO Metadata */}
       <Helmet>
-        <title>Chaitanya Sai Meka | Full Stack Developer & AI Enthusiast</title>
+        <title>Dhiraj Mistry | Full Stack Developer & AI Enthusiast</title>
         <meta name="description" content="Official portfolio of Chaitanya Sai Meka, a full stack developer skilled in React, Node.js, and passionate about AI/ML. Explore projects, skills, and experience." />
         <link rel="canonical" href="https://chaitanya-sai-meka.vercel.app/" />
 

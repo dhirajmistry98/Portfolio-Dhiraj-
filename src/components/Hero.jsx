@@ -1,6 +1,6 @@
 import React from "react";
 import { Typewriter } from "react-simple-typewriter";
-import { FaGithub, FaInstagram, FaLinkedin } from "react-icons/fa";
+import { FaGithub, FaLinkedin, FaTwitter } from "react-icons/fa";
 import { SiLeetcode, SiCodeforces } from "react-icons/si";
 import { cn } from "../lib/utils";
 import { DrawLineText } from "./ui/draw_line_text";
@@ -38,7 +38,7 @@ const Hero = () => {
                 lg: 70,
               }}
               strokeWidth={1.5}
-              text="Chaitanya Sai Meka"
+              text="Dhiraj Mistry"
               color="url(#gradient)"
             />
           </div>
@@ -76,7 +76,7 @@ const Hero = () => {
 
           <div className="flex justify-center gap-4 mt-6 text-2xl">
             <a
-              href="https://github.com/ChaitanyaSai-Meka"
+              href="https://github.com/dhirajmistry98"
               target="_blank"
               rel="noopener noreferrer"
               className="icon-circle hover:text-white transition"
@@ -84,36 +84,20 @@ const Hero = () => {
               <FaGithub />
             </a>
             <a
-              href="https://www.instagram.com/chaitanyasai_meka/"
+              href="https://x.com/dhiraj01_"
               target="_blank"
               rel="noopener noreferrer"
               className="icon-circle hover:text-pink-600 transition"
             >
-              <FaInstagram />
+              <FaTwitter />
             </a>
             <a
-              href="https://www.linkedin.com/in/chaitanya-sai-meka/"
+              href="https://www.linkedin.com/in/dhiraj-mistry-9ab330265/"
               target="_blank"
               rel="noopener noreferrer"
               className="icon-circle hover:text-blue-600 transition"
             >
               <FaLinkedin />
-            </a>
-            <a
-              href="https://leetcode.com/u/chaitanyasai_meka/"
-              target="_blank"
-              rel="noopener noreferrer"
-              className="icon-circle hover:text-yellow-500 transition"
-            >
-              <SiLeetcode />
-            </a>
-            <a
-              href="https://codeforces.com/profile/Chaitanyasai_meka"
-              target="_blank"
-              rel="noopener noreferrer"
-              className="icon-circle hover:text-blue-400 transition"
-            >
-              <SiCodeforces />
             </a>
           </div>
         </div>

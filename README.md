@@ -1,4 +1,4 @@
-# 🚀 Chaitanya Sai Meka | Developer Portfolio
+# 🚀 Dhiraj Mistry| Developer Portfolio
 
 Welcome to my personal portfolio built with **React + Vite** — a fast, minimal, and elegant showcase of my skills and projects.
 
@@ -31,9 +31,6 @@ Welcome to my personal portfolio built with **React + Vite** — a fast, minimal
 To run this project locally:
 
 ```bash
-# 1. Clone the repository
-git clone https://github.com/ChaitanyaSai-Meka/Portfolio.git
-
 # 3. Install dependencies
 npm install
 

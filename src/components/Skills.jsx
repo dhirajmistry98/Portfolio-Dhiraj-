@@ -49,12 +49,6 @@ const Skills = () => {
     />,
     <FaPython key="Mysql" className="text-white text-xl" />,
     <img
-      key="MySQL"
-      src="/mysql_logo.png"
-      alt="Mysql"
-      className="w-15 h-15 p-1 object-contain"
-    />,
-    <img
       key="tailwind"
       src="/tailwind.png"
       alt="Tailwind"
@@ -64,12 +58,6 @@ const Skills = () => {
       key="postgresql"
       src="/postgresql.png"
       alt="Postgresql"
-      className="w-9 h-9 p-1 object-contain"
-    />,
-    <img
-      key="three-js-logo"
-      src="/three-js-logo.png"
-      alt="three.js"
       className="w-9 h-9 p-1 object-contain"
     />,
     <img
@@ -109,29 +97,11 @@ const Skills = () => {
       className="w-15 h-15 p-1 object-contain"
     />,
     <img
-      key="Java_Logo"
-      src="/Java_Logo.png"
-      alt="Java"
-      className="w-13 h-14 px-1 pb-1 object-contain"
-    />,
-    <img
-      key="React_Native_Logo"
-      src="/react_native_logo.png"
-      alt="React_Native"
-      className="w-11 h-12 px-1 pb-1 object-contain"
-    />,
-    <img
       key="Firebase_Logo"
       src="/firebase_logo.png"
       alt="Firebase"
       className="w-11 h-12 px-1 pb-1 object-contain"
-    />,
-    <img
-      key="Swift_Logo"
-      src="/swift_logo.png"
-      alt="Swift"
-      className="w-10 h-10 px-1 pb-1 object-contain"
-    />,
+    />
   ];
 
   const audioSources = [

@@ -23,10 +23,10 @@ const Contact = () => {
 
     emailjs
       .sendForm(
-        "service_7yymo38",       
-        "template_12345",       
+        "service_9h4ip2s",       
+        "template_o1i7pll",       
         formRef.current,
-        "Nrt6aQrzDZimIGqI8"     
+        "40Byvq6xFIi9kVXlX"     
       )
       .then(() => {
         setStatus(" Message sent successfully!");
