@@ -9,6 +9,15 @@ import ScrollTrigger from "gsap/ScrollTrigger";
 import ProjectImage from "./utils/ProjectImage";
 
 const projects = [
+    {
+    title: "FlowLy — B2B AI SaaS",
+    description:
+      "Built multi-tenant AI SaaS collaboration platform with workspaces, channels, and threaded messaging. using PostgreSQL architecture using Prisma and Neon DB with Arcjet API security.",
+    link: "https://flowly-organizes.vercel.app/",
+    github: "https://github.com/dhirajmistry98/flowly",
+    image: "/B2B.png",
+    blurhash: "L00SvEayWAfQozfQayfQayfQf8fQ"
+  },
   {
     title: "Thing Engine",
     description:
